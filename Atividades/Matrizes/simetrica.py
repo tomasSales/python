@@ -1,4 +1,5 @@
 # Recebe uma matriz e returne True se a matriz for simetrica, em caso contrario retorna False.
+# teste
 
 
 def simetrica(matriz=bool):
